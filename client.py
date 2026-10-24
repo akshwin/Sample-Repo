@@ -1,5 +1,2 @@
-print("Hello, World!")
-print("More features coming soon!")
-print("Stay tuned for updates!")
-print("Database initialized in main branch")
-print("Database initialized.")
+print("Client initialized from feat branch")
+print("Made change to merge with the main branch")
