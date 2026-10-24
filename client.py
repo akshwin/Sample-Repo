@@ -1,4 +1,1 @@
-print("Hello, World!")
-print("More features coming soon!")
-print("Stay tuned for updates!")
-print("Database initialized.")
+print("Client initialized from feat branch")
